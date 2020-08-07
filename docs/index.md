@@ -1,5 +1,7 @@
 [Meteoroid: Origin of The Shooting Star](https://avaepidemic.wixsite.com/website)
 
+<img src="pics/01.png" alt="hi" class="inline"/>
+
 Have you ever wondered about the origin of a shooting star? 
 You know, the magical fire in the sky that is believed to grant people wishes (you probably would wish too if you see one flying in front of you, it is a rare phenomenon not to be missed!) or perhaps you have heard of the disaster that wiped out the dinosaurs millions of years ago (tragic). This article discusses everything related to the so-called shooting star, or perhaps we should be more scientific: The Meteoroid.
 Hope you enjoy the journey!
