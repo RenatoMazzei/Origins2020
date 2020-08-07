@@ -58,24 +58,36 @@ difused inner ring.
 
 [The Mystery of the Origin of the Moon](https://mak7xg.wixsite.com/originsproject)
 
+<img src="/pics/10.png" alt="hi" class="inline"/>
+
 The Moon may be the most well-known celestial object, however we are still in the dark
 as to how the Moon came to be, whether by a huge collision or another force altogether
 
 [Diamonds Are(n't?) Forever](https://prezi.com/view/EYNQleIuRVttUSUsgTql/)
 
+<img src="/pics/11.jpg" alt="hi" class="inline"/>
+
 My cosmic-themed Prezi presentation will take its viewers on an intergalactic voyage across the cosmos in hopes of explaining the origin of the scintillating and fabled mineral known as the diamond. Along the way, I will explore other diamond-related phenomena that occur in space, such as Jupiter and Saturn’s “diamond rain,” or the presence of planet sized diamonds. Make sure your volume is on!
 
 [Galactic Cannibalism](https://stevenradilla1.wixsite.com/mysite)
 
+<img src="/pics/12.jpg" alt="hi" class="inline"/>
+
 [Powered by Lithium](https://lithiumorigins2020.wordpress.com)
+
+<img src="/pics/13.jpeg" alt="hi" class="inline"/>
 
 Lithium saved my life.
 
 [A Study of the Distribution of the Size of Craters on Ceres and the Implications for Ceres' Geologic History](flatworm-butterfly-39fd.squarespace.com)
 
+<img src="/pics/14.jpg" alt="hi" class="inline"/>
+
 This website will teach you about Ceres, an old dwarf planet located in  the main asteroid belt of our solar system.   Because of Ceres’ size, location and age, scientists had long thought that understanding the crater size distribution on Ceres could unlock mysteries about Ceres and the formation of our solar system.  
 
 [The Origin of the Moon](https://svs9fq.wixsite.com/originofthemoon)
+
+<img src="/pics/15.png" alt="hi" class="inline"/>
 
 Where did our Moon come from? Well I have created a website that explains several different theories to help you find out. It includes the most accepted theory but also some others that may or may not be possible. You will have to visit the site to find out. 
 
