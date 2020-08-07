@@ -48,7 +48,7 @@ Polaris is often referred to as the "North Star," but did you know that this ni
 
 Have you ever heard the old saying, “Rome wasn’t built in a day”? It implies the importance of patience, and that things take time to come together. The universe is no exception to this rule. Even God took six days to build it, and He still had to rest the following day! 
 
-## [GALAXYLOVE](https://ubj6bc.wixsite.com/website)
+## [GalaxyLovers4Life](https://ubj6bc.wixsite.com/website)
 
 <img src="https://raw.githubusercontent.com/RenatoMazzei/Origins2020/master/pics/09.png" width="500"/>
 
@@ -65,7 +65,7 @@ as to how the Moon came to be, whether by a huge collision or another force alto
 
 ## [Diamonds Are(n't?) Forever](https://prezi.com/view/EYNQleIuRVttUSUsgTql/)
 
-<img src="https://raw.githubusercontent.com/RenatoMazzei/Origins2020/master/pics/11.jpg" width="500" class="inline"/>
+<img src="https://raw.githubusercontent.com/RenatoMazzei/Origins2020/master/pics/11.jpg" width="500"/>
 
 My cosmic-themed Prezi presentation will take its viewers on an intergalactic voyage across the cosmos in hopes of explaining the origin of the scintillating and fabled mineral known as the diamond. Along the way, I will explore other diamond-related phenomena that occur in space, such as Jupiter and Saturn’s “diamond rain,” or the presence of planet sized diamonds. Make sure your volume is on!
 
