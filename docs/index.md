@@ -36,7 +36,7 @@ Gold, also known as Au, is arguably the most coveted element on Earth.
 
 Calendars and astronomy, two things you don't typically associate with one another actually are strongly related!
 
-## [The Northern Light](https://ach3da.wixsite.com/mysite-1)
+## [The "Northern" Light](https://ach3da.wixsite.com/mysite-1)
 
 <img src="https://raw.githubusercontent.com/RenatoMazzei/Origins2020/master/pics/07.jpg" width="500" class="inline"/>
 
@@ -79,7 +79,7 @@ My cosmic-themed Prezi presentation will take its viewers on an intergalactic vo
 
 Lithium saved my life.
 
-## [A Study of the Distribution of the Size of Craters on Ceres and the Implications for Ceres Geologic History](flatworm-butterfly-39fd.squarespace.com)  
+## [A Study of the Distribution of the Size of Craters on Ceres and the Implications for Ceres' Geologic History](flatworm-butterfly-39fd.squarespace.com)  
 (for some reason this link might not work properly, here is the URL: flatworm-butterfly-39fd.squarespace.com)
 
 <img src="https://raw.githubusercontent.com/RenatoMazzei/Origins2020/master/pics/14.jpg" width="500"/>
