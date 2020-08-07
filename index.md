@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-test
+testing
 
 You can use the [editor on GitHub](https://github.com/RenatoMazzei/Origins2020/edit/master/%20(root)/index.md) to maintain and preview the content for your website in Markdown files.
 
