@@ -60,7 +60,7 @@ difused inner ring.
 <img src="https://raw.githubusercontent.com/RenatoMazzei/Origins2020/master/pics/10.png" width="500" class="inline"/>
 
 The Moon may be the most well-known celestial object, however we are still in the dark
-as to how the Moon came to be, whether by a huge collision or another force altogether
+as to how the Moon came to be, whether by a huge collision or another force altogether.
 
 ## [Diamonds Are(n't?) Forever](https://prezi.com/view/EYNQleIuRVttUSUsgTql/)
 
@@ -82,7 +82,7 @@ Lithium saved my life.
 
 <img src="https://raw.githubusercontent.com/RenatoMazzei/Origins2020/master/pics/14.jpg" width="500"/>
 
-This website will teach you about Ceres, an old dwarf planet located in  the main asteroid belt of our solar system. Because of Ceres’ size, location and age, scientists had long thought that understanding the crater size distribution on Ceres could unlock mysteries about Ceres and the formation of our solar system.  
+This website will teach you about Ceres, an old dwarf planet located in the main asteroid belt of our solar system. Because of Ceres’ size, location and age, scientists had long thought that understanding the crater size distribution on Ceres could unlock mysteries about Ceres and the formation of our solar system.  
 
 ## [The Origin of the Moon](https://svs9fq.wixsite.com/originofthemoon)
 
