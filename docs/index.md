@@ -1,10 +1,8 @@
-## [Meteoroid: Origin of The Shooting Star](https://avaepidemic.wixsite.com/website)
+[Meteoroid: Origin of The Shooting Star](https://avaepidemic.wixsite.com/website)
 
 <img src="https://raw.githubusercontent.com/RenatoMazzei/Origins2020/master/pics/01.png" width="500"/>
 
-Have you ever wondered about the origin of a shooting star? 
-You know, the magical fire in the sky that is believed to grant people wishes (you probably would wish too if you see one flying in front of you, it is a rare phenomenon not to be missed!) or perhaps you have heard of the disaster that wiped out the dinosaurs millions of years ago (tragic). This article discusses everything related to the so-called shooting star, or perhaps we should be more scientific: The Meteoroid.
-Hope you enjoy the journey!
+Have you ever wondered about the origin of a shooting star? You know, the magical fire in the sky that is believed to grant people wishes (you probably would wish too if you see one flying in front of you, it is a rare phenomenon not to be missed!) or perhaps you have heard of the disaster that wiped out the dinosaurs millions of years ago (tragic). This article discusses everything related to the so-called shooting star, or perhaps we should be more scientific: The Meteoroid. Hope you enjoy the journey!
 
 ## [What Exactly Was the Big Bang?](https://astronomy1280jennadelgado.weebly.com)
 
@@ -84,7 +82,7 @@ Lithium saved my life.
 
 <img src="https://raw.githubusercontent.com/RenatoMazzei/Origins2020/master/pics/14.jpg" width="500"/>
 
-This website will teach you about Ceres, an old dwarf planet located in  the main asteroid belt of our solar system.   Because of Ceres’ size, location and age, scientists had long thought that understanding the crater size distribution on Ceres could unlock mysteries about Ceres and the formation of our solar system.  
+This website will teach you about Ceres, an old dwarf planet located in  the main asteroid belt of our solar system. Because of Ceres’ size, location and age, scientists had long thought that understanding the crater size distribution on Ceres could unlock mysteries about Ceres and the formation of our solar system.  
 
 ## [The Origin of the Moon](https://svs9fq.wixsite.com/originofthemoon)
 
