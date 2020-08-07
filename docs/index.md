@@ -22,7 +22,7 @@ Have you ever wondered how our moon was created? Look no further! This website w
 
 <img src="https://raw.githubusercontent.com/RenatoMazzei/Origins2020/master/pics/04.jpeg" width="500"/>
 
-No planet knows how to accessorize quite like Saturn. You may be wondering-- has Saturn always had this killer instinct for trends? Fashion icons today are all about piling up some rings to add an eclectic touch to a look (pictured below), but since sometime between 10 million and 4.5 billion years ago, Saturn has been rocking their signature jewelry piece. 
+No planet knows how to accessorize quite like Saturn. You may be wondering-- has Saturn always had this killer instinct for trends? Fashion icons today are all about piling up some rings to add an eclectic touch to a look (pictured above), but since sometime between 10 million and 4.5 billion years ago, Saturn has been rocking their signature jewelry piece. 
 
 ## [The Origin of Gold](https://qdg9xwb.wixsite.com/originofgold)
 
