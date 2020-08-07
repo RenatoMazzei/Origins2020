@@ -79,7 +79,8 @@ My cosmic-themed Prezi presentation will take its viewers on an intergalactic vo
 
 Lithium saved my life.
 
-[A Study of the Distribution of the Size of Craters on Ceres and the Implications for Ceres Geologic History](flatworm-butterfly-39fd.squarespace.com)
+A Study of the Distribution of the Size of Craters on Ceres and the Implications for Ceres Geologic History
+[Site](flatworm-butterfly-39fd.squarespace.com)
 
 <img src="/pics/14.jpg" alt="hi" class="inline"/>
 
